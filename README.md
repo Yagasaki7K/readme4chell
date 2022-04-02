@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h2>README para projetos e apresentação pessoal</h2>
+  <h2 align="center">README para projetos e apresentação pessoal</h2>
   
   <p align="center">
     <br />
