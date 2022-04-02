@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <h2>README para projetos e apresentação pessoal</h2>
+  <h2 align="center">README para projetos e apresentação pessoal</h2>
   
   <p align="center">
     <br />
@@ -25,9 +25,10 @@ Nesse pequeno artigo, eu ensino técnicas, dicas e sugestões para você consegu
 ## Sumário
 
 - [Para uso pessoal](#para-uso-pessoal)
-- [Conteúdo 2](#para-repositórios)
+- [Sobre seus projetos](#sobre-seus-projetos)
+- [Como contribuir](#como-contribuir)
   
-# Para uso pessoal
+## Para uso pessoal
 Para uso pessoal eu tenho algumas dicas para compartilhar, dicas foram úteis para mais de cento e cinquenta (150) pessoas das quais eu auxiliei no Twitter e continuará ativo, caso você precise que eu dê uma olhada no seu perfil do Github e opine, fique à vontade para ir [lá no Twitter](https://twitter.com/Yagasaki7K/status/1505935508853112832) e deixar o link do seu Github.
 
 Algumas dessas dicas que andei observando e se tornou quase um padrão para vários perfis que analisei é: 
@@ -50,7 +51,7 @@ Algumas dessas dicas que andei observando e se tornou quase um padrão para vár
 
 - Redes sociais: Não adianta você compartilhar seu Twitter se você só fala sobre games e animes lá, compartilhe redes sociais que estão ativas e que você fale sobre seu profissionalismo, sabemos que o Twitter não é uma regra sempre de você falar sobre a mesma coisa, mas finja que é um influencer. A regra é simples, finja ser até de fato se tornar aquilo que sempre fingiu ser.
 
-# Sobre os seus projetos
+## Sobre os seus projetos
 - Deixe pinado projetos de suma importância, olhe seu README deles estão bem detalhados e informando sobre o projeto de forma adequada, lembre-se que a apresentação do seu projeto é tanto para pessoas desenvolvedoras quanto para pessoas leigas, então não precisa ser tão técnico na hora da apresentação. Tech Recruters também olham projetos.
 
 - Já que Tech Recruters também olham projetos, lembre de deixar a descrição deles intuitiva, eles são a capa do livro (projeto) que você está vendendo, apresentando, se você não tem uma descrição sobre o que é aquele projeto, a pessoa não vai querer nem clicar para ver o resto.
@@ -65,7 +66,7 @@ Sobre o modelo profissional, lembre-se de que esse é o modelo que a Aperture La
 
 Novamente, isso não é uma regra da maneira que de fato você deve seguir, muito menos a forma em que esse markdown foi feito, mas é um modelo para você seguir como base e ir se adaptando
 
-Você pode seguir esse modelo de README para seus projetos em Português ou em Inglês, vale lembrar que eles estarão quebrados já que estão no modo de exemplo.
+Você pode seguir esse modelo de README para seus projetos em [Português](https://github.com/Yagasaki7K/readme4chell/blob/main/README-TemplatePT.md) ou em [Inglês](https://github.com/Yagasaki7K/readme4chell/blob/main/README-TemplateEN.md), vale lembrar que eles estarão quebrados já que estão no modo de exemplo.
 
 Lembre de alterar as partes que estão em maiusculo para o seu nick do Github e o nome do repositório, caso ao contrário as informações não irão aparecer. Esse README é válido apenas para repositórios públicos, repositórios privados não são possíveis obter informações como a quantidade de “stars” no projeto e outras informações.
 
