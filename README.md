@@ -51,6 +51,8 @@ Algumas dessas dicas que andei observando e se tornou quase um padrão para vár
 
 - Redes sociais: Não adianta você compartilhar seu Twitter se você só fala sobre games e animes lá, compartilhe redes sociais que estão ativas e que você fale sobre seu profissionalismo, sabemos que o Twitter não é uma regra sempre de você falar sobre a mesma coisa, mas finja que é um influencer. A regra é simples, finja ser até de fato se tornar aquilo que sempre fingiu ser.
 
+- Você possui um blog? Porque não postar as últimas quatro, cinco notícias dele redirecionando para o seu website? Não digo para simplesmente der um copy and paste na publicação original, mas dê um resumo ou liste apenas títulos com seus links, inove, faça uma apresentação sobre isso e atraia ainda mais engajamento!
+
 ## Sobre os seus projetos
 - Deixe pinado projetos de suma importância, olhe seu README deles estão bem detalhados e informando sobre o projeto de forma adequada, lembre-se que a apresentação do seu projeto é tanto para pessoas desenvolvedoras quanto para pessoas leigas, então não precisa ser tão técnico na hora da apresentação. Tech Recruters também olham projetos.
 
